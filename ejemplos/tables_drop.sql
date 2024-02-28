@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS dbo.Evento;
+DROP TABLE IF EXISTS dbo.Actividad;
+DROP TABLE IF EXISTS dbo.Servicio;
+DROP TABLE IF EXISTS dbo.Proveedor;
+DROP TABLE IF EXISTS dbo.Invitado;
+DROP TABLE IF EXISTS dbo.Locacion;
